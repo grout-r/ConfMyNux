@@ -1,0 +1,24 @@
+## install ##
+Trouver comment on install en silent mode
+emacs
+tree
+xclip
+htop
+x
+chromium
+git
+
+zsh
+
+## confs ##
+.basrc -> aliases :
+       l
+       ll
+       lla
+       emacs
+
+trouver un bon fichier .emacs (demander a Simon ?? )
+
+
+## scripts ##
+generate ssh key (upload to GitHub ?? )
