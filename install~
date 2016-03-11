@@ -1,0 +1,17 @@
+## install ##
+emacs
+tree
+xclip
+htop
+x
+
+
+zsh
+
+## confs ##
+.basrc -> aliases :
+       l
+       ll
+       lla
+       emacs
+
